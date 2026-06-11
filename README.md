@@ -14,7 +14,7 @@ and logged with a real-time timestamp.
 ![Front View](images/Front%20view.jpg)
 
 ## Side View
-![Side View](images/Front%20view.jpg)
+![Side View](images/Side%20view.jpg)
 ---
 
 ## Hardware Required
