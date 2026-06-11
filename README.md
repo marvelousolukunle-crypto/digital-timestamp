@@ -7,6 +7,13 @@ and logged with a real-time timestamp.
 
 ---
 
+## 📸 image
+
+<!-- Standard Layout Fix -->
+![Front View](images/Front%20vew.png)
+
+---
+
 ## Hardware Required
 
 | Component | Purpose |
