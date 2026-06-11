@@ -81,10 +81,18 @@ MCE/??/0042,Amina,06/06/2026,14:32:07,SUBMITTED
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-**Your Full Name**
-Mechatronics Engineering Student
-[Your LinkedIn URL]
+## ✍️ Author
+* **Your Name** ([@marvelousolukunle-crypto](https://github.com)) — Core Code & System Integration
+
+## 🤝 Acknowledgments
+* Commissioned by MCE Group 2 for their embedded systems project.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Initial commit - Arduino Digital-timestamp
