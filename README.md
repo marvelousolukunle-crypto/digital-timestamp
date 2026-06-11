@@ -10,8 +10,11 @@ and logged with a real-time timestamp.
 ## 📸 image
 
 <!-- Standard Layout Fix -->
-![Front View](images/Front%20vew.png)
+## Front View
+![Front View](images/Front%20view.jpg)
 
+## Side View
+![Side View](images/Front%20view.jpg)
 ---
 
 ## Hardware Required
