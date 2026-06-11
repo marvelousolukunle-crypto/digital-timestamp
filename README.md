@@ -7,7 +7,7 @@ and logged with a real-time timestamp.
 
 ---
 
-## 📸 image
+## 📸 images
 
 <!-- Standard Layout Fix -->
 ## Front View
